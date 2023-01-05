@@ -1,0 +1,26 @@
+'''Required packages'''
+#If already installed, upgrade to latest version: pip install --upgrade tda-api
+asyncio
+datetime
+json
+pandas
+selenium
+ta
+tda-api
+
+
+#You will also need to download the chrome driver
+
+'''Links'''
+#Asyncio: https://docs.python.org/3/library/asyncio-task.html
+#Chrome Driver: https://chromedriver.chromium.org/downloads
+#Json: https://docs.python.org/3/library/json.html
+#Pandas: https://pandas.pydata.org/docs/reference/index.html#api
+#Selenium: https://pypi.org/project/selenium/
+#TA: https://technical-analysis-library-in-python.readthedocs.io/en/latest/
+#TD Ameritrade: https://invest.ameritrade.com/grid/p/site#r=home
+#TD Ameritrade Developer: https://developer.tdameritrade.com/
+#TDA-API: https://tda-api.readthedocs.io/en/latest/index.html
+
+'''If Token Expires'''
+#Run Get Token  seperate, might have to redownload and unzip chrome driver (version 26)
